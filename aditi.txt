@@ -1,0 +1,7 @@
+Linked lists, Stack, Queues are linear because they have connected in a manner that they can have only one descendant at any node. Unlike trees and graphs which can have one or more child or nodes connected to a given node
+
+
+
+KYTA SMJH AAYA MA KYA KR RAHA THA
+
+ tu kara tha ms excel
